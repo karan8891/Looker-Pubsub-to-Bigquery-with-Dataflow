@@ -49,3 +49,5 @@
 * Run a SELECT statement in BigQuery to see the test message populated in your table.
 
 * Note: If you do not see any test messages in your BigQuery table, check that the Dataflow job has a status of Running, and then send another test message.
+
+![project architechture](https://github.com/karan8891/Looker-Pubsub-to-Bigquery-with-Dataflow/blob/main/images/Pubsub2Bq.jpg)
