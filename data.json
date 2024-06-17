@@ -1,0 +1,223 @@
+[
+  {
+    "ride_id": "ride001",
+    "point_idx": 1,
+    "latitude": 37.7749,
+    "longitude": 122.4194,
+    "timestamp": "2024-06-17T09:30:00Z",
+    "meter_reading": 10.5,
+    "meter_increment": 0.3,
+    "ride_status": "ongoing",
+    "passenger_count": 2
+  },
+  {
+    "ride_id": "ride002",
+    "point_idx": 1,
+    "latitude": 40.7128,
+    "longitude": 74.0060,
+    "timestamp": "2024-06-17T09:45:00Z",
+    "meter_reading": 8.2,
+    "meter_increment": 0.2,
+    "ride_status": "completed",
+    "passenger_count": 1
+  },
+  {
+    "ride_id": "ride003",
+    "point_idx": 1,
+    "latitude": 34.0522,
+    "longitude": 118.2437,
+    "timestamp": "2024-06-17T10:00:00Z",
+    "meter_reading": 12.1,
+    "meter_increment": 0.4,
+    "ride_status": "cancelled",
+    "passenger_count": 3
+  },
+  {
+    "ride_id": "ride004",
+    "point_idx": 1,
+    "latitude": 51.5074,
+    "longitude": 0.1278,
+    "timestamp": "2024-06-17T10:15:00Z",
+    "meter_reading": 15.3,
+    "meter_increment": 0.5,
+    "ride_status": "ongoing",
+    "passenger_count": 1
+  },
+  {
+    "ride_id": "ride005",
+    "point_idx": 1,
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "timestamp": "2024-06-17T10:30:00Z",
+    "meter_reading": 9.8,
+    "meter_increment": 0.3,
+    "ride_status": "completed",
+    "passenger_count": 2
+  },
+  {
+    "ride_id": "ride006",
+    "point_idx": 1,
+    "latitude": 52.5200,
+    "longitude": 13.4050,
+    "timestamp": "2024-06-17T10:45:00Z",
+    "meter_reading": 11.7,
+    "meter_increment": 0.4,
+    "ride_status": "ongoing",
+    "passenger_count": 3
+  },
+  {
+    "ride_id": "ride007",
+    "point_idx": 1,
+    "latitude": 55.7558,
+    "longitude": 37.6176,
+    "timestamp": "2024-06-17T11:00:00Z",
+    "meter_reading": 13.5,
+    "meter_increment": 0.3,
+    "ride_status": "completed",
+    "passenger_count": 1
+  },
+  {
+    "ride_id": "ride008",
+    "point_idx": 1,
+    "latitude": 40.7306,
+    "longitude": -73.9352,
+    "timestamp": "2024-06-17T11:15:00Z",
+    "meter_reading": 17.2,
+    "meter_increment": 0.6,
+    "ride_status": "ongoing",
+    "passenger_count": 2
+  },
+  {
+    "ride_id": "ride009",
+    "point_idx": 1,
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "timestamp": "2024-06-17T11:30:00Z",
+    "meter_reading": 14.9,
+    "meter_increment": 0.5,
+    "ride_status": "cancelled",
+    "passenger_count": 3
+  },
+  {
+    "ride_id": "ride010",
+    "point_idx": 1,
+    "latitude": 41.8781,
+    "longitude": -87.6298,
+    "timestamp": "2024-06-17T11:45:00Z",
+    "meter_reading": 8.6,
+    "meter_increment": 0.3,
+    "ride_status": "completed",
+    "passenger_count": 1
+  },
+  {
+    "ride_id": "ride011",
+    "point_idx": 1,
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "timestamp": "2024-06-17T12:00:00Z",
+    "meter_reading": 16.3,
+    "meter_increment": 0.7,
+    "ride_status": "ongoing",
+    "passenger_count": 2
+  },
+  {
+    "ride_id": "ride012",
+    "point_idx": 1,
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "timestamp": "2024-06-17T12:15:00Z",
+    "meter_reading": 10.2,
+    "meter_increment": 0.2,
+    "ride_status": "completed",
+    "passenger_count": 3
+  },
+  {
+    "ride_id": "ride013",
+    "point_idx": 1,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "timestamp": "2024-06-17T12:30:00Z",
+    "meter_reading": 12.7,
+    "meter_increment": 0.4,
+    "ride_status": "ongoing",
+    "passenger_count": 1
+  },
+  {
+    "ride_id": "ride014",
+    "point_idx": 1,
+    "latitude": 51.5074,
+    "longitude": 0.1278,
+    "timestamp": "2024-06-17T12:45:00Z",
+    "meter_reading": 9.4,
+    "meter_increment": 0.3,
+    "ride_status": "cancelled",
+    "passenger_count": 2
+  },
+  {
+    "ride_id": "ride015",
+    "point_idx": 1,
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "timestamp": "2024-06-17T13:00:00Z",
+    "meter_reading": 11.5,
+    "meter_increment": 0.5,
+    "ride_status": "ongoing",
+    "passenger_count": 3
+  },
+  {
+    "ride_id": "ride016",
+    "point_idx": 1,
+    "latitude": 52.5200,
+    "longitude": 13.4050,
+    "timestamp": "2024-06-17T13:15:00Z",
+    "meter_reading": 14.1,
+    "meter_increment": 0.6,
+    "ride_status": "completed",
+    "passenger_count": 1
+  },
+  {
+    "ride_id": "ride018",
+    "point_idx": 1,
+    "latitude": 40.7306,
+    "longitude": -73.9352,
+    "timestamp": "2024-06-17T13:45:00Z",
+    "meter_reading": 16.8,
+    "meter_increment": 0.7,
+    "ride_status": "ongoing",
+    "passenger_count": 2
+  },
+  {
+    "ride_id": "ride019",
+    "point_idx": 1,
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "timestamp": "2024-06-17T14:00:00Z",
+    "meter_reading": 13.2,
+    "meter_increment": 0.4,
+    "ride_status": "completed",
+    "passenger_count": 3
+  },
+  {
+    "ride_id": "ride020",
+    "point_idx": 1,
+    "latitude": 41.8781,
+    "longitude": -87.6298,
+    "timestamp": "2024-06-17T14:15:00Z",
+    "meter_reading": 10.9,
+    "meter_increment": 0.3,
+    "ride_status": "ongoing",
+    "passenger_count": 1
+  },
+  {
+    "ride_id": "ride017",
+    "point_idx": 1,
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "timestamp": "2024-06-17T14:30:00Z",
+    "meter_reading": 12.5,
+    "meter_increment": 0.5,
+    "ride_status": "cancelled",
+    "passenger_count": 2
+  }
+]
+
